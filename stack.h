@@ -10,6 +10,7 @@ public:
     int pop();
     Stack();
     ~Stack();
+    bool isEmpty(){ return size==0; }
 };
 
 
