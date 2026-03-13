@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+#include <cstring>
 #include "stack.h"
 
 int main(int argc, char **argv){
